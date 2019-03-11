@@ -25,7 +25,7 @@ SECRET_KEY = '!mzxx$w0h%p^@%tafzb)vaaeswa3g=c#3rz)&84pqa5^8&thaa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bhuvi.pythonanywhere.com']
 
 
 # Application definition
